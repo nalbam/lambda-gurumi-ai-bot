@@ -200,6 +200,8 @@ GitHub Actions 워크플로우 (`.github/workflows/push.yml`):
 ├── requirements.txt        # Python 의존성
 ├── .env.example            # 환경 변수 예시
 ├── .env.local              # 환경 변수 (gitignore)
+├── images/
+│   └── gurumi-bot.png      # 프로젝트 이미지
 ├── examples/
 │   ├── bedrock/            # Bedrock 예제 스크립트
 │   │   ├── invoke_agent.py
